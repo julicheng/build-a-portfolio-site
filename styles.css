@@ -20,7 +20,7 @@ a:link, a:visited {
 	color: black;
 }
 
-a:hover img{
+a:hover img {
     color: turquoise;
     outline: 3px solid turquoise;
 }
